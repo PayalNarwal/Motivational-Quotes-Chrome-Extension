@@ -7,7 +7,7 @@ This Chrome extension provides you with daily motivational quotes to inspire and
 
 ## Demo Video
 
-[![Demo Video](https://example.com/demo-thumbnail.png)](https://youtu.be/vWtIg2VbaLk)
+[![Demo Video](demo-thumbnail.png)](https://youtu.be/vWtIg2VbaLk)
 
   
 ## How to Use
