@@ -4,6 +4,14 @@ This Chrome extension provides you with daily motivational quotes to inspire and
 ## Features
 * Fetches motivational quotes from external APIs.
 * Displays a random quote each time you open a new tab.
+
+## Demo Video
+
+<video width="640" height="360" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
   
 ## How to Use
 ### 1. Installation:
