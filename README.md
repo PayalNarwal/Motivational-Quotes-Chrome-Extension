@@ -18,9 +18,9 @@ This Chrome extension provides you with daily motivational quotes to inspire and
   > https://github.com/PayalNarwal/Motivational-Quotes-Chrome-Extension
   > 
 * Unzip the downloaded folder to your preferred location on your computer.
-Add to Chrome:
 
-### 2. Open Google Chrome.
+### 2. Add to Chrome:
+* Open Google Chrome.
 * Go to the Extensions page by typing chrome://extensions/ in the address bar and pressing Enter.
 * Enable Developer mode in the top right corner.
 * Click on "Load unpacked" and select the folder where you unzipped the extension files.
