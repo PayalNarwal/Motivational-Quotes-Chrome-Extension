@@ -31,3 +31,4 @@ Add to Chrome:
 
 ### 4. Enjoy Motivational Quotes:
 * Whenever you open a new tab in Chrome and you click on the extension icon, you will see a new motivational quote to inspire you throughout the day.
+* If you face any issues, feel free to watch the demo video.
